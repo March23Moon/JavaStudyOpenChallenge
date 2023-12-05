@@ -1,1 +1,1 @@
-# JavaStudyOpen-Challenge
+# JavaStudyOpenChallenge
